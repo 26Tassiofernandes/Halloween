@@ -14,4 +14,4 @@
 <p> Você foi chamado para uma festa de dia das bruxas e um desses botões vai determinar a sua fantasia para a festa em questão, qual sua opção? </p>
 
 <h3> ✏️ Licença </h3>
-<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo<p>
+<p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo</p>
