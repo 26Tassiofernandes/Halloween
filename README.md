@@ -1,4 +1,4 @@
-<h1> 🎃 Festa a fantasia</h1>
+### 🎃 Festa a fantasia
 
 <div style="display: inline_block">
 
@@ -10,8 +10,8 @@
 
 <img src="https://user-images.githubusercontent.com/86972667/197296733-07aecba5-82cb-4589-bb51-62a0cff8e9c4.png" alt="imagem">
 
-<h2> 📜 Descrição </h2>
+### 📜 Descrição 
 <p> Você foi chamado para uma festa de dia das bruxas e um desses botões vai determinar a sua fantasia para a festa em questão, qual sua opção? </p>
 
-<h3> ✏️ Licença </h3>
+###✏️ Licença 
 <p>Proibida a utilização dos arquivos e códigos em questão para fins diferentes de aprendizado e estudo</p>
