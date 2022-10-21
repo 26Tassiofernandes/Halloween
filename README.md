@@ -1,4 +1,4 @@
-<h1> Festa a fantasia</h1>
+<h1> 🎃 Festa a fantasia</h1>
 
 <div style="display: inline_block">
 
