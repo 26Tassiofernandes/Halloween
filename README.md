@@ -13,7 +13,7 @@
 ##
 
 ### 📜 Descrição 
-<p> Você foi chamado para uma festa de dia das bruxas e um desses botões vai determinar a sua fantasia para a festa em questão, qual sua opção? </p>
+<p> Você foi chamado para uma festa de dia das bruxas e um desses botões vai determinar a sua fantasia para o evento em questão, qual sua opção? </p>
 
 ##
 
